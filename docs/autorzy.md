@@ -1,4 +1,4 @@
-# Autorzy projektu
+# Autorzy projektu:
 Tomasz Undas
 Łukasz Dudzik
 Kierownik Projektu:
