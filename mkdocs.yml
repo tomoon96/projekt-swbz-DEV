@@ -1,0 +1,28 @@
+site_name: Systemy Wspomagania Pracy Zespołowej - Projekt
+theme:
+  name: material
+  language: pl
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Przełącz na tryb ciemny
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Przełącz na tryb jasny
+  features:
+    - navigation.tabs
+
+nav:
+  - Strona główna: index.md
+  - Temat projektu: temat.md
+  - Autorzy: autorzy.md
+  - Teoria: teoria.md
+  - Przykłady: przyklady.md
