@@ -26,3 +26,5 @@ nav:
   - Autorzy: autorzy.md
   - Teoria: teoria.md
   - Przykłady: przyklady.md
+
+strict: true
